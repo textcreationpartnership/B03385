@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full account of the late dreadful earth-quake at Port-Royal in Jamaica, written in two letters from the minister of that place, from aboard the Granada in Port-Royal Harbour, June 22. 1692.</title>
+            <author>Heath, E., Rev., fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03385</idno>
+            <idno type="STC">Wing F2269</idno>
+            <idno type="STC">ESTC R177213</idno>
+            <idno type="EEBO-CITATION">52212086</idno>
+            <idno type="OCLC">ocm 52212086</idno>
+            <idno type="VID">175677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175677)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full account of the late dreadful earth-quake at Port-Royal in Jamaica, written in two letters from the minister of that place, from aboard the Granada in Port-Royal Harbour, June 22. 1692.</title>
+                  <author>Heath, E., Rev., fl. 1692.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Edinburgh ;</pubPlace>
+                  <pubPlace>and re-printed at Glasgow :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Published anonymously. Authorship from NUC pre-1956.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Consists of two letters. Second letter dated: June 28. 1692.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  Jamaica --  Port Royal --  Early works to 1800.</term>
+               <term>Natural disasters --  Jamaica --  Port Royal --  Early works to 1800.</term>
+               <term>Jamaica --  History --  To 1962 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175677:1" rendition="simple:additions"/>
+            <head>A FULL ACCOUNT OF THE LATE DREADFUL EARTH-QUAKE At PORT-ROYAL in JAMAICA, Written in two Letters from the MINISTER of that Place. <hi>From aboard the</hi> Granada <hi>in</hi> Port-Royal <hi>Harbour,</hi> June 22. 1692.</head>
+            <argument>
+               <p>
+                  <hi>Licenced,</hi> September 9<hi>th.</hi> 1692.</p>
+            </argument>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>Doubt not but you will both from Gazets, and Letters hear of the great Calamity that hath befallen this <hi>Iſland</hi> by a Terrible <hi>EARTH-QUAKE,</hi> on the <hi>7th.</hi> Inſtant, which hath thrown down almoſt all the Houſes, Churches, Sugar-Works, Mills and Bridges through the whole Country. It tore the Rocks and Mountains, and deſtroyed ſome whole Plantations, and threw them into the Sea, <hi>Port-Royal</hi> had much the greateſt ſhare in this terrible Judgement of God. I will therefore be more, <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>icular in giving you an Account of its proceedings in that Place, that you may know what my Da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and how unexpected my Preſervation. On <hi>Wedneſday</hi> the <hi>7th.</hi> day of <hi>June</hi> I had been as Church <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ding Prayers, which I did every day ſince I was Rector of <hi>Port-Royal,</hi> to keep up ſome ſhew of Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> among a moſt Ungodly Debauched People, and was gone to a place hard by the Church, where the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>chants uſe to meet, and where the Preſident of the Council was, who acts now in Chief, till we have <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w Governor; who came into my Company, and engaged me to take a Glaſs of Worm-wood Wine with <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a whet before Dinner, he being my very great friend, I ſtayed with him, upon which he lighted a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Tobacco, which he was pretty long of taking; and not being willing to leave him before it was out, detained me from going to Dinner to one Captain <hi>Ruden</hi>'s, where I was to Dine) whoſe Houſe upon firſt Concuſſion ſunk firſt into the Earth, and then into the Sea, with his Wife and Family, and ſome that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e come to Dine with him; had I been there I had been loſt. But to return to the Preſident, and his of Tobacco; before that was out, I found the ground rowling and moving under my feet, upon which to him, <hi>Lord, Sir, what is this?</hi> He replyed very compoſed, being a very grave Man, <hi>It's an Earth<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> be not affraid, it will ſoon be ever.</hi> But it increaſed, and we heard the Church and Tower fall, upon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, we ran to ſave our ſelves; I quickly loſt him, and made towards <hi>Morganso Fort,</hi> which being a wide place, I thought to be there ſecureſt from the falling Houſes; But as I made toward it, I ſaw the Earth and ſwallow up a multitude of People, and the Sea mounting in upon us over the Fortifications, I laid aſide all thoughts of eſcaping, and reſolved to make toward my own Lodging, and there to meet <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in as good a poſture as I could: From the Place where I was, I was forced to croſs and run through or three very narrow Streets, the Houſes and Walls fell on each ſide of me, ſome Brick came rowling my ſhooes, but none hurt me; when I came to my Lodging, I found there all things in the ſame order them, not a Picture, of which there were ſeveral fair ones in my Chamber, being out of its place, I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to my Balconey to view the Street in which our Houſe ſtood, and ſaw never a Houſe down there, nor <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound ſo much as crack'd; the People ſeeing me there, cry'd out to me to come and Pray with them; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I came into the Street every one laid hold on my Cloaths and embraced me, that with their fear and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>eſs I was almoſt ſtifled: I perſwaded them at laſt to kneel down and make a large Ring, which they did, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed with them near an hour, when I was almoſt ſpent with the heat of the Son, and the exerciſe, they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought me a Chair, the Earth working all the while with new motions, and tremblings, like the row<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> of the Sea, inſomuch that when I was at Prayer I could hardly keep my ſelf upon my knees. By that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I had been half an hour longer with them, in ſetting before their Sins and heinous Provocations, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly exhorting them to Repentance, there came ſome Merchants to me of the Place, who deſired me <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> aboard ſome Ship in the Harbor and refreſh my ſelf, telling me that they had gotten a Boat to carrie <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff; ſo coming to the Sea, which had intirely ſwallowed up the <hi>Wharf,</hi> with all thoſe goodly Brick <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>es upon it, moſt of them as fine as thoſe in <hi>Chepſide,</hi> and two intire Streets beyond that, I upon the of ſome Houſes which lay levelled with the ſurface of the Water, got firſt into a Canoe, and then into <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>g Boat, which put me aboard a Ship called the <hi>Stam Merchant,</hi> where I found the Preſident ſafe, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> was overjoyed to ſee me; therefore I continued that night, but could not ſleep for the returns of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-quake almoſt every hour, which made all the Guns in the Ship to jarr and rattle: The next day I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from Ship to Ship to Viſit thoſe that were bruiſed, and a dying, and to pray with them, and likewiſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the laſt Office at the ſinking of ſeveral Corps that came floating from the <hi>Point,</hi> which indeed had been <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrowful, Employment ever ſince I came aboard this Ship with deſign to come for <hi>England,</hi> we having <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>g but ſhakings of the Earth, and Thunder and Lightning, and foul Weather ever ſince: and the Peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing ſo deſperatly wicked, it makes me afraid to ſtay in the place; for that very day this terrible Earth-<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was, as ſoon as night came on, a Company of lewd Rogues whom they call Privateers, fell to break<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> open Ware-houſes, and Houſes deſerted, to Rod and Rifle their Neighbors whilſt the Earth trembled about them, and ſome of the Houſes fell on them in the Act: And thoſe audacious Whores that remain <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the Place, are as impudent and drunk as ever. I have been twiſe on ſhore to pray with the Brui<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:175677:2"/> and Dying People, and to Chriſten Children, where I met too many Drunk and Swearing, I did <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpare them, nor the Magiſtrats neither, who have ſuffered Wickedneſs to grow to ſo great a hight; I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I bleſs God; to the beſt of my skill and power diſcharged my Duty in this place, which you will hear fr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> moſt Perſons that come from hence: I have Preached ſo ſeaſonably to them, and ſo plain in the laſt S<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mon I Preached to them in the Church; I ſet before them what would be the iſſue of their Impenite<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Wickedneſs, that they have ſince confeſſed, that it was more like a Propheſie than a Sermon: I h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confeſs, an impulſe on me to do it: And many times I have preached in this Pulpit, things that I never <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meditated at home, and could not me-thought do otherways. The day when all this befel us was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> clear, afforded not the ſuſpition of the leaſt evil; but in the ſpace of three Minutes, about half an hou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter Eleven in the Morning, <hi>Port Royal,</hi> the faireſt Town of all the <hi>Engliſh</hi> Plantations, the beſt <hi>Emp<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> and Mart of this part of the World, exceeding in its Riches, plentiful of all good Things, was ſhake<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhattered to pieces, and ſunk into, and covered for the greateſt part, by the Sea, and will in a ſhort tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wholly eaten up by it, for few of thoſe houſes that yet ſtand, are left whole, and every day we hear t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> fall, and the Sea daily incroaches upon it; VVe gueſs, that by the falling of the Houſes, and the ope<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the Earth, and the Inundation of the Waters, there are loſt Fifteen Hundred Perſons, and many of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> note, of whom my good friend Attorney General <hi>Muſgrove,</hi> Provoſt Marſhal <hi>Reves</hi> another, my Lord <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cretary <hi>Reves</hi> another, <hi>William Turner, Thomas Turner</hi>'s Brother is loſt, Mr. <hi>Swymer</hi> eſcaped, but his H<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mate Mr. <hi>Watts</hi> is loſt.</p>
+            <p>I came, I told you, on board this Ship in order to come home, but the People are ſo importunate wit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſtay, I know not what to ſay to them, I muſt undergo great hardſhip if I continue here, the Com<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> being broken all to pieces and diſſetled: I muſt live in a Hutt, eat Yams, and Plantants for Bread, w<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> I could never endure; drink Rumm-punch and Water, which were never pleaſing to me. I have <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſend a younger Perſon, who may better endure the Fatigue of it than I can; But if I ſhould leave now, it will look very unnatural to leave them in their diſtreſs, and therefore what ever I ſuffer, I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not have ſuch a blame lye at my door, I am reſolv'd, That by reaſon of the preſent diſtreſs, to continu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them a Year longer: They are going all in haſte to build a new Town near the Rock in <hi>Linuave<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> Guardian of this Iſland. The <hi>French</hi> from <hi>Pituguaveis</hi> did attack this Iſland on the <hi>North</hi> ſide, but <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> all defeated and deſtroyed, it being about the time of the Earth-quake.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>June 28. 1692.</date>
+                  </dateline>
+               </opener>
+               <p>EVer ſince that fatal day, the moſt terrible that ever I ſaw in my life, I have lived on Board a Shi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſhaking of the Earth return every now and then; Yeſterday we had a very great one, but it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leſs terrible on Ship board than on Shoar, yet I have ventur'd to <hi>Port Royal</hi> no leſs than three <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſince its deſolation, among the ſhattered Houſes to bury the Dead, and pray with the Sick, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſten the Children. Sunday laſt I preached among them in a Tent, the Houſes that remain being ſo ſhatter<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I durſt not venture to preach in them, the People are overjoy'd to ſee me among them, and wipt bitterly <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I preached to them: I hope by this terrible Judgement, God will make them reform their lives, for th<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not a more ungodly People on the Face of the Earth. It is a ſad ſight to ſee all this Harbor, one of the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and goodlieſt I ever ſaw, covered with the dead Bodies of People of all conditions, floating up and do<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>out burial; for our famous Burial Place, called the <hi>Palliſadoes</hi> was deſtroyed by the Earth-quake, and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> waſhed the Carkaſſes of thoſe that were buried out of their Graves, their Tombs being daſhed to piece<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Earthquake, of which there were hunders in that place: Multitudes of Rich Men are utterly ruin'd, whil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that were poor, by watching opportunities, and ſearching the wrack'd and ſunk Houſes, even almoſt w<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Earth-quake laſted, and terror and amazement were upon all the conſiderable People, have gotten great We have had Accounts from ſeveral parts of theſe Iſlands of the Miſchiefs done by the Earth-quake; <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Anns,</hi> we hear of above 1000 Acres of Wood-land changed into the Sea, and carried with it whole Plan<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> but no place ſuffered like <hi>Port Royal,</hi> where whole Streets were ſwallowed up by the opening Earth, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Houſes and Inhabitants went down together! Some of them were driven up again by the Sea, which aroſe <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> breaches, and wonderfully eſcaped: ſome were ſwallowed up to the Neck, and then the Earth ſhut upon th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſqueezed them to death; and in that manner ſeveral are buried with their Heads above ground, only ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Dogs have eaten: others are covered with duſt and earth by the People which yet remain in the plac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>void the ſtink. Thus I have told you a long and a ſad Story; and GOD knows what worſe may happen y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> People tell me, that they hear great Bellowings and Noiſes in the Mountains, which makes ſome ver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>henſive of an eruption of Fire, if ſo, it will, I fear, be more deſtructive than the Earthquake. I am <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſtay, and yet I know not how, in point of Conſcience, at ſuch a juncture as this, to quite my Station.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Edinburgh,</hi> and Re-printed at <hi>Glaſgow,</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
